@@ -1,2 +1,4 @@
-# Stepik_auto_tests_course_project
-Main project
+# stepik_auto_tests_course
+HomeTasks
+
+Делаем выпускной проект
